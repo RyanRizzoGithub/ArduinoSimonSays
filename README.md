@@ -14,11 +14,6 @@ HOW TO PLAY:
 - Step 7: After this, the game will restart
 
 DEMOS:
-- Start Tune & Gameplay demo
-  https://youtube.com/shorts/y53MfwiIMWY
-
-- Loss demo
-  https://youtube.com/shorts/3A3DxLtDG9g
-
-- Win Tune demo
-  https://www.youtube.com/shorts/8TZJ934hJsE
+- Start Tune & Gameplay demo:     https://youtube.com/shorts/y53MfwiIMWY
+- Loss demo:                      https://youtube.com/shorts/3A3DxLtDG9g
+- Win Tune demo:                  https://www.youtube.com/shorts/8TZJ934hJsE

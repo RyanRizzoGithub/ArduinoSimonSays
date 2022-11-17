@@ -1,3 +1,5 @@
+# Arduino Simon Says
+
 AUTHOR:
 - Ryan Rizzo
 

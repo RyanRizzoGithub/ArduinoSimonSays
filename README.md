@@ -1,7 +1,6 @@
 
 PURPOSE:
-
-The purpose of this program is to allow users to play the Children's game Simon Says, 
+- The purpose of this program is to allow users to play the Children's game Simon Says, 
 on a microcontroller.
   
 HOW TO PLAY:
